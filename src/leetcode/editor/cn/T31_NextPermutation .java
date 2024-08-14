@@ -54,14 +54,14 @@
 
 package leetcode.editor.cn;
 //Java：下一个排列
-public class T31_NextPermutation{
+class T31_NextPermutation{
     public static void main(String[] args) {
         Solution solution = new T31_NextPermutation().new Solution();
         // TO TEST
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-        class Solution {
+
             public void nextPermutation(int[] nums) {
                 int i = nums.length - 2;
                 while(i >= 0 && nums[i] >= nums[i+1]){

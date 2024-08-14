@@ -46,7 +46,7 @@
 
 package leetcode.editor.cn;
 //Java：递增的三元子序列
-public class T334_IncreasingTripletSubsequence{
+class T334_IncreasingTripletSubsequence{
     public static void main(String[] args) {
         Solution solution = new T334_IncreasingTripletSubsequence().new Solution();
         // TO TEST
