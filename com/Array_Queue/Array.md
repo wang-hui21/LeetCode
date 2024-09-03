@@ -19,4 +19,4 @@
 
 2. 从第二行开始，将有效数据还原到原始数组中
 
-[代码](com/Array_Queue/Sparse_Array.java)
+[代码](Sparse_Array.java)
